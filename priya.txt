@@ -1,0 +1,4 @@
+Content: Working with local repositories
+	 working with remote repositories
+	 Git commands
+	 Git Resources
