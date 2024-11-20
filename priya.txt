@@ -2,3 +2,4 @@ Content: Working with local repositories
 	 working with remote repositories
 	 Advanced Git commands
 	 Git Resources
+	 Test condition
